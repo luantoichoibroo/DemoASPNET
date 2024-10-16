@@ -9,7 +9,7 @@ namespace HL.Test.Domain.common
     public class BaseEntity
     {
         public DateTime DateCreate { get; set; }
-        public string? CreateBy { get; set; }
+        public string? CreateByzxzx { get; set; }
 
         public DateTime DateModified { get; set; }
 
